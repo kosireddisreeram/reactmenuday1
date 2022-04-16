@@ -1,0 +1,42 @@
+.App {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  grid-gap: 1rem;
+  width: 20%;
+}
+
+
+.joinus{
+  background-color: blue;
+  color: white;
+  border-radius: 20px;
+}
+.settings{
+  background-color: rgb(158, 158, 190);
+  color: white;
+  border-radius: 20px;
+}.login{
+  background-color: rgb(131, 119, 13);
+  color: white;
+  border-radius: 20px;
+}.contact{
+  background-color: rgb(245, 20, 4);
+  color: white;
+  border-radius: 20px;
+}.search{
+  background-color: rgb(13, 94, 33);
+  color: white;
+  border-radius: 20px;
+}.help{
+  background-color: rgb(11, 11, 41);
+  color: white;
+  border-radius: 20px;
+}.home{
+  background-color: rgb(114, 29, 89);
+  color: white;
+  border-radius: 20px;
+}.download{
+  background-color: rgb(127, 151, 17);
+  color: white;
+  border-radius: 20px;
+}
